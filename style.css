@@ -69,29 +69,18 @@ img {
 /* LOWER BODY */
 .about {
   padding: 60px;
-  /* border-color: rgb(241, 195, 195);
-  border-style: outset;
-  border-width: 4px;
-  border-radius: 5px; */
   background-color: rgb(48, 56, 90);
-  /* display: grid;
-  column-gap: 20px;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1fr 40px 1fr 40px; */
+  padding-left: 400px;
+  padding-right: 200px;
 }
 
-.about-content {
+.about-content,
+.footer {
   color: rgb(235, 230, 214);
   background-color: rgb(48, 56, 90);
   font-size: 24px;
 }
 
-/* .--1 {
-  grid-column: 2 / 3;
-  grid-row: 1 / 2;
+.footer {
+  font-size: 18px;
 }
-
-.--2 {
-  grid-column: 1 / 2;
-  grid-row: 2 / 3;
-} */
